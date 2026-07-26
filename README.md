@@ -22,7 +22,7 @@ A production-ready document-based question-answering application built with Amaz
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/ernesthenry/document-qa-assistant
 cd learning-amazon-bedrock-3819146
 ```
 
